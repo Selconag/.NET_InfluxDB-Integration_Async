@@ -12,4 +12,10 @@ You can check the documentation from here: https://www.influxdata.com/blog/getti
 
 #### Important Note: Detailed video and other explanations for connection is referenced in the Non-Async Repo. So please check it out.
 
+#### Things will be added:
+MQTT Broker Connection between places or devices.
+Detailed REST API that can be interacted from Swagger UI.
+Swagger-UI Independent Rest API usage documentation( A Readme.txt with instructions on how to use services like Postman application too.)
+
+
 
