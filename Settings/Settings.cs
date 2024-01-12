@@ -17,7 +17,7 @@ public record Settings
     public readonly string ClientID = Guid.NewGuid().ToString();
     public static readonly string TcpServerAdress = "test.mosquitto.org";
     public static string FluxConfiguration_Bucket = "test";
-    public static readonly string FluxConfiguration_OrganizationName = "Bewelltech";
+    public static readonly string FluxConfiguration_OrganizationName = "organization";
     public static string ConnectionAdress = "http://localhost:8086";
     public static string InfluxDBToken = "InfluxDB:Token";
 
